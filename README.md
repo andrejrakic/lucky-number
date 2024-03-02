@@ -1,0 +1,3 @@
+- https://www.alexedwards.net/blog/an-introduction-to-packages-imports-and-modules
+- https://pkg.go.dev/std
+- https://go.dev/blog/package-names
